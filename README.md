@@ -28,7 +28,7 @@ Inside Term base Sqlite you will find choice.csv and question.csv which is used 
 
 
 The above extracted term base is used as input in the Dep-Map-Application for developing the Atlas of Learning Model.
-**for Dep-Map-Application Code reference visit url :https://github.com/Smita1102/Dep_Map_Application 
+**for Dep-Map-Application Code reference visit url https://github.com/rakshanda-jathade/Dependency_Map_Application
 
 
 
